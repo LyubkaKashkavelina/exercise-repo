@@ -1,5 +1,3 @@
 Repo made for exercise
 I am adding some new things
-to show that it is working...
-Adding dots...
-Things like this.
+And some more. I hope it works cause it is driving me crazy!
